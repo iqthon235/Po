@@ -13,10 +13,10 @@ from telethon.tl.types import InputPhoneContact
 
 API_ID = 24347380 
 API_HASH = "1ad5dea4dfdddfed44df611dcd0d1736"
-BOT_TOKEN = "توكن البوت"
+BOT_TOKEN = "5955571967:AAHRvrOA9dWlnUEg093pp6MgrNZ7W0ybVYQ"
 DB_FILE = "users.json" 
 
-ADMIN_USERNAME = "هنا حط يوزرك"
+ADMIN_USERNAME = "@Jakc_group"
 
 
 def load_data(file_path):
